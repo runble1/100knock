@@ -1,3 +1,4 @@
 100_sample/
 .ipynb_checkpoints/
 .python-version
+*.csv
